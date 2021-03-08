@@ -1,0 +1,14 @@
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\ConsoleHelper.exe.config
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\ConsoleHelper.exe
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\ConsoleHelper.pdb
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\EntFramework.dll
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\itextsharp.dll
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\EPPlus.dll
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\Dapper.dll
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\EntFramework.pdb
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\itextsharp.xml
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\EPPlus.xml
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\Dapper.xml
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\obj\Debug\ConsoleHelper.csprojResolveAssemblyReference.cache
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\obj\Debug\ConsoleHelper.exe
+D:\git_repo\WindowsFormsApplication1\ConsoleHelper\obj\Debug\ConsoleHelper.pdb

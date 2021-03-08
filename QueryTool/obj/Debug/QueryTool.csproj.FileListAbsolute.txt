@@ -1,0 +1,8 @@
+D:\git_repo\WindowsFormsApplication1\QueryTool\bin\Debug\QueryTool.exe.config
+D:\git_repo\WindowsFormsApplication1\QueryTool\bin\Debug\QueryTool.exe
+D:\git_repo\WindowsFormsApplication1\QueryTool\bin\Debug\QueryTool.pdb
+D:\git_repo\WindowsFormsApplication1\QueryTool\obj\Debug\QueryTool.Properties.Resources.resources
+D:\git_repo\WindowsFormsApplication1\QueryTool\obj\Debug\QueryTool.csproj.GenerateResource.Cache
+D:\git_repo\WindowsFormsApplication1\QueryTool\obj\Debug\QueryTool.exe
+D:\git_repo\WindowsFormsApplication1\QueryTool\obj\Debug\QueryTool.pdb
+D:\git_repo\WindowsFormsApplication1\QueryTool\obj\Debug\QueryTool.csprojResolveAssemblyReference.cache

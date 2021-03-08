@@ -1,0 +1,15 @@
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\TimsHelper.exe.config
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.csprojResolveAssemblyReference.cache
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.AccessPrivate.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.SubForms.Coded.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.ProcPay.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.Properties.Resources.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.QueryGenerator.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Setting.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.SPBackupHelper.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.SubForms.SQLEditor.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.SubForms.SQLView.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.SubForms.매출집계표검증폼.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.SubForms.매출집계표요약폼.resources
+D:\git_repo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TimsHelper.csproj.GenerateResource.Cache

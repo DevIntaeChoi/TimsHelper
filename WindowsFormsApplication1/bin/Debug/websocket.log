@@ -1,0 +1,100 @@
+2019-02-15 오후 7:02:24|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                            GET /Echo/ HTTP/1.1
+                            User-Agent: websocket-sharp/1.0
+                            Host: localhost:8088
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Key: u4scNQMmnQWGqajED/ltBw==
+                            Sec-WebSocket-Version: 13
+2019-02-15 오후 7:02:24|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                            HTTP/1.1 101 Switching Protocols
+                            Server: websocket-sharp/1.0
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Accept: WUIQnVanMA5Rzwlm5J1iscea6bs=
+2019-02-15 오후 7:02:24|Trace|WebSocket.close:0|Begin closing the connection.
+2019-02-15 오후 7:02:24|Info |WebSocket.close:0|Closing the connection has already been done.
+2019-02-15 오후 7:02:24|Debug|WebSocket.closeHandshake:0|Was clean?: True
+                              sent: True
+                              received: True
+2019-02-15 오후 7:02:24|Trace|WebSocket.close:0|End closing the connection.
+2019-02-15 오후 7:03:13|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                            GET /Echo/ HTTP/1.1
+                            User-Agent: websocket-sharp/1.0
+                            Host: localhost:8088
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Key: UvhkB0Ss85EYF+0OV6RnmQ==
+                            Sec-WebSocket-Version: 13
+2019-02-15 오후 7:03:13|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                            HTTP/1.1 101 Switching Protocols
+                            Server: websocket-sharp/1.0
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Accept: NchPsJxSHh/5ZDNbFpSygae3TEs=
+2019-02-15 오후 7:03:13|Trace|WebSocket.close:0|Begin closing the connection.
+2019-02-15 오후 7:03:18|Info |WebSocket.close:0|Closing the connection has already been done.
+2019-02-15 오후 7:03:18|Debug|WebSocket.closeHandshake:0|Was clean?: True
+                              sent: True
+                              received: True
+2019-02-15 오후 7:03:18|Trace|WebSocket.close:0|End closing the connection.
+2019-02-15 오후 7:03:42|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                            GET /Echo/ HTTP/1.1
+                            User-Agent: websocket-sharp/1.0
+                            Host: localhost:8088
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Key: i+Rbqs/j/9bUE0ZAzkcitg==
+                            Sec-WebSocket-Version: 13
+2019-02-15 오후 7:03:42|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                            HTTP/1.1 101 Switching Protocols
+                            Server: websocket-sharp/1.0
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Accept: PQef8pK8fopizCuIPGcnDK3ZNBU=
+2019-02-15 오후 7:03:42|Trace|WebSocket.close:0|Begin closing the connection.
+2019-02-15 오후 7:03:46|Info |WebSocket.close:0|Closing the connection has already been done.
+2019-02-15 오후 7:03:46|Debug|WebSocket.closeHandshake:0|Was clean?: True
+                              sent: True
+                              received: True
+2019-02-15 오후 7:03:46|Trace|WebSocket.close:0|End closing the connection.
+2019-02-15 오후 7:06:46|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                            GET /Echo/ HTTP/1.1
+                            User-Agent: websocket-sharp/1.0
+                            Host: localhost:8088
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Key: rLdD1Np1OXgUlYShfALnTA==
+                            Sec-WebSocket-Version: 13
+2019-02-15 오후 7:06:46|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                            HTTP/1.1 101 Switching Protocols
+                            Server: websocket-sharp/1.0
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Accept: mM6JmsuHfIIRaRNxh4pM1zrmnQc=
+2019-02-15 오후 7:06:46|Trace|WebSocket.close:0|Begin closing the connection.
+2019-02-15 오후 7:06:46|Info |WebSocket.close:0|Closing the connection has already been done.
+2019-02-15 오후 7:06:46|Debug|WebSocket.closeHandshake:0|Was clean?: True
+                              sent: True
+                              received: True
+2019-02-15 오후 7:06:46|Trace|WebSocket.close:0|End closing the connection.
+2019-02-15 오후 7:06:54|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                            GET /Echo/ HTTP/1.1
+                            User-Agent: websocket-sharp/1.0
+                            Host: localhost:8088
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Key: UjrY1RBCf5M4NYJjl4585g==
+                            Sec-WebSocket-Version: 13
+2019-02-15 오후 7:06:54|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                            HTTP/1.1 101 Switching Protocols
+                            Server: websocket-sharp/1.0
+                            Upgrade: websocket
+                            Connection: Upgrade
+                            Sec-WebSocket-Accept: hdRLgwnOJ2V1Ty5rth7V5QEQTzQ=
+2019-02-15 오후 7:06:54|Trace|WebSocket.close:0|Begin closing the connection.
+2019-02-15 오후 7:06:54|Info |WebSocket.close:0|Closing the connection has already been done.
+2019-02-15 오후 7:06:54|Debug|WebSocket.closeHandshake:0|Was clean?: True
+                              sent: True
+                              received: True
+2019-02-15 오후 7:06:54|Trace|WebSocket.close:0|End closing the connection.

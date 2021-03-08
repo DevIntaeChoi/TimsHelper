@@ -1,0 +1,50 @@
+[20191220 17:26:08]D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\SQL\default.sql
+[20191220 17:26:08]
+DECLARE @aSubject VARCHAR(100), @aBody VARCHAR(1000)
+
+--알림메일 발송
+SET @aSubject = 'test'
+SET @aBody = 'test content'
+
+EXEC DBMAIL.msdb.dbo.sp_send_dbmail
+@profile_name = 'SMTP21',
+@recipients = 'kdy2509@interpark.com;',
+@body_format ='HTML',
+@subject =  @aSubject,
+@body = @aBody
+
+insert into tbl_SettleAcc_Log(msg, HandlingDate) values('console test', getdate());
+[20191220 17:26:08]
+DECLARE @aSubject VARCHAR(100), @aBody VARCHAR(1000)
+
+--알림메일 발송
+SET @aSubject = 'test'
+SET @aBody = 'test content'
+
+EXEC DBMAIL.msdb.dbo.sp_send_dbmail
+@profile_name = 'SMTP21',
+@recipients = 'kdy2509@interpark.com;',
+@body_format ='HTML',
+@subject =  @aSubject,
+@body = @aBody
+
+insert into tbl_SettleAcc_Log(msg, HandlingDate) values('console test', getdate());
+[20191220 17:26:08]종료
+[20191220 17:26:39]D:\git_repo\WindowsFormsApplication1\ConsoleHelper\bin\Debug\SQL\default.sql
+[20191220 17:26:39]
+DECLARE @aSubject VARCHAR(100), @aBody VARCHAR(1000)
+
+--알림메일 발송
+SET @aSubject = 'test'
+SET @aBody = 'test content'
+
+EXEC DBMAIL.msdb.dbo.sp_send_dbmail
+@profile_name = 'SMTP21',
+@recipients = 'kdy2509@interpark.com;',
+@body_format ='HTML',
+@subject =  @aSubject,
+@body = @aBody
+
+insert into tbl_SettleAcc_Log(msg, HandlingDate) values('console test', getdate());
+[20191220 17:26:39]Data Source=172.25.5.211,1433;Initial Catalog=Ticket2000;Persist Security Info=True;User ID=N18187;Password=N18187
+[20191220 17:26:39]종료

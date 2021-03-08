@@ -1,0 +1,11 @@
+﻿SELECT
+    B.NAME AS 테이블명
+    ,A.NAME AS 컬럼명
+    ,TYPE_NAME(USER_TYPE_ID) AS 데이타타입
+    ,CONVERT(INT, MAX_LENGTH) AS 길이
+    ,B.CRDATE AS 테이블생성일
+FROM SYS.ALL_COLUMNS AS A
+INNER JOIN SYSOBJECTS AS B ON A.OBJECT_ID=B.ID
+    AND B.XTYPE='U'
+WHERE A.NAME='VoucherPrefix'
+order by 테이블생성일
